@@ -2,7 +2,7 @@
 
 I am a passionate ethical hacker with a keen interest in artificial intelligence, web development, web penetration testing, and network security. Currently pursuing B.Tech in Computer Science and Engineering at Lovely Professional University, I am dedicated to enhancing the security of digital platforms and networks. My focus lies in ethical practices, continuous learning, and staying ahead of the curve in the rapidly evolving field of cybersecurity.
 
-<iframe src="https://tryhackme.com/api/v2/badges/public-profile?userPublicId=1574212" style='border:none;'></iframe>
+<img src="https://tryhackme.com/api/v2/badges/public-profile?userPublicId=1574212" height="150" alt="tryhackme"/>
 
 <div align="left">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="30" alt="javascript logo"  />
